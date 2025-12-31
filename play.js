@@ -114,7 +114,7 @@ document.addEventListener("DOMContentLoaded", () => {
   para.className = "mb-0";
 
   const link = document.createElement("a");
-  link.href = "https://t.me/+SUy4f5u0jB5lYzk9";
+  link.href = "https://www.instagram.com/nova_jfrrr?igsh=MTdwM2YwNTVwNzV4cA==";
   link.target = "_blank";
   link.className = "footer-text";
 
